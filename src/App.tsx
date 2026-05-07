@@ -45,7 +45,7 @@ function App() {
     <main className="app">
       <section className="hero">
         <p className="eyebrow">Game Review Archive</p>
-        <h1>게임 리뷰 목록 시스템</h1>
+        <h1>게임 리뷰 아카이브</h1>
         <p className="description">
           React와 TypeScript를 활용하여 구현한 간단한 게임 리뷰 조회 시스템입니다.
           게임 제목 검색, 장르 필터링, 평점순 정렬 기능을 제공합니다.
